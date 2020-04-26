@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4754"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="pattern.svg">
+  <defs
+     id="defs4748">
+    <linearGradient
+       id="linearGradient997"
+       inkscape:collect="always">
+      <stop
+         id="stop993"
+         offset="0"
+         style="stop-color:#00ccff;stop-opacity:1;" />
+      <stop
+         id="stop995"
+         offset="1"
+         style="stop-color:#00ffcc;stop-opacity:1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath1846"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -68.018258,-75.532544 88.668222,62.699599 c 3.234384,2.287127 3.99698,6.7322469 1.709863,9.9666165 L -16.343184,51.867536 c -2.287117,3.234369 -6.732237,3.996965 -9.966624,1.709842 L -114.97802,-9.1222166 c -3.23439,-2.2871104 -3.99699,-6.7322264 -1.70987,-9.9666004 l 38.703518,-54.733503 c 2.287112,-3.234373 6.732223,-3.996975 9.966614,-1.709865 z"
+         style="opacity:1;fill:url(#linearGradient1850);fill-opacity:1;fill-rule:evenodd;stroke-width:8.93803;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1848" />
+    </clipPath>
+    <linearGradient
+       y2="132.02156"
+       x2="124.36246"
+       y1="179.64653"
+       x1="52.134201"
+       gradientTransform="matrix(1.3791114,0.97520682,-0.97520682,1.3791114,-17.672128,-310.85586)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1850"
+       xlink:href="#linearGradient997"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-page="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-nodes="true"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="327.91985"
+     inkscape:cy="523.85481"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="777"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4751">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       id="text1854"
+       y="198.96666"
+       x="9.7895832"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="198.96666"
+         x="9.7895832"
+         id="tspan1852"
+         sodipodi:role="line" /></text>
+    <text
+       id="text1858"
+       y="195.2625"
+       x="9.5249996"
+       style="font-size:10.58329999999999949px;line-height:1.25;font-family:'Noto Sans Mongolian';-inkscape-font-specification:'Noto Sans Mongolian';stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583;-inkscape-font-specification:'Noto Sans Mongolian';font-family:'Noto Sans Mongolian';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         y="195.2625"
+         x="9.5249996"
+         id="tspan1856"
+         sodipodi:role="line" /></text>
+    <text
+       id="text1866"
+       y="196.32083"
+       x="45.508331"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="196.32083"
+         x="45.508331"
+         id="tspan1864"
+         sodipodi:role="line" /></text>
+    <text
+       id="text1894"
+       y="198.17291"
+       x="75.67083"
+       style="font-size:6.35px;line-height:1.25;font-family:'Noto Sans Mongolian';-inkscape-font-specification:'Noto Sans Mongolian Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="198.17291"
+         x="75.67083"
+         id="tspan1892"
+         sodipodi:role="line" /></text>
+  </g>
+</svg>
