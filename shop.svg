@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
-   sodipodi:docname="donut worry.svg">
+   sodipodi:docname="shop.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -24,17 +24,31 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="458.45105"
-     inkscape:cy="625.13103"
-     inkscape:document-units="mm"
+     inkscape:cx="402"
+     inkscape:cy="570"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1440"
-     inkscape:window-height="803"
+     inkscape:window-height="829"
      inkscape:window-x="0"
      inkscape:window-y="23"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       enabled="true"
+       visible="true"
+       snapvisiblegridlinesonly="true"
+       units="px"
+       spacingy="26.458333"
+       id="grid838"
+       type="axonomgrid" />
+    <inkscape:grid
+       spacingy="26.458333"
+       units="px"
+       id="grid840"
+       type="axonomgrid" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -43,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
