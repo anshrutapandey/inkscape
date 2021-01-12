@@ -7,36 +7,37 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="chef.svg"
-   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
-   id="svg924"
-   version="1.1"
-   viewBox="0 0 210 297"
+   width="210mm"
    height="297mm"
-   width="210mm">
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg924"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="chef.svg">
   <defs
      id="defs918" />
   <sodipodi:namedview
-     inkscape:object-paths="true"
-     inkscape:object-nodes="false"
-     inkscape:window-maximized="0"
-     inkscape:window-y="23"
-     inkscape:window-x="0"
-     inkscape:window-height="829"
-     inkscape:window-width="1440"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="532.75"
-     inkscape:cx="451.5"
-     inkscape:zoom="1"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     showguides="false"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="353.65792"
+     inkscape:cy="662.99996"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="803"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:object-nodes="false"
+     inkscape:object-paths="false" />
   <metadata
      id="metadata921">
     <rdf:RDF>
@@ -50,45 +51,81 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <rect
-       ry="13.794698"
-       y="124.3345"
-       x="67.125519"
-       height="41.470013"
-       width="48.208893"
+       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.312992"
        id="rect1519"
-       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.321951" />
+       width="45.563061"
+       height="41.470013"
+       x="67.7733"
+       y="124.06992"
+       ry="13.794698" />
     <rect
-       ry="22.138521"
-       y="116.94582"
-       x="70.327881"
-       height="67.73333"
-       width="41.804169"
+       style="fill:#ffa96f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.254412"
        id="rect1505"
-       style="fill:#ffa96f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.273889" />
-    <rect
-       ry="10.596714"
-       y="117.04586"
-       x="67.152878"
-       height="21.193428"
-       width="48.154171"
-       id="rect1507"
-       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.412215" />
+       width="37.999641"
+       height="64.293747"
+       x="71.555008"
+       y="118.00415"
+       ry="21.014297" />
     <ellipse
-       ry="8.0348158"
-       rx="7.5164399"
-       cy="431.5914"
-       cx="311.61786"
+       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.186635"
        id="path1521"
-       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.186635" />
+       cx="311.61786"
+       cy="431.5914"
+       rx="7.5164399"
+       ry="8.0348158" />
+    <rect
+       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.393792"
+       id="rect1507"
+       width="48.154171"
+       height="19.341345"
+       x="66.477737"
+       y="117.04586"
+       ry="9.6706724" />
+    <path
+       transform="scale(0.26458333)"
+       d="M 287.80469 442.37891 C 271.68073 442.37891 258.06995 452.71928 253.18945 467.1543 C 258.17823 464.87372 263.72726 463.59375 269.58984 463.59375 L 416.91992 463.59375 C 421.88031 463.59375 426.61517 464.51068 430.97852 466.17188 C 425.82347 452.25084 412.46013 442.37891 396.70312 442.37891 L 287.80469 442.37891 z "
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke-width:1.48835"
+       id="rect2962" />
     <circle
-       r="6.614583"
-       cy="118.79791"
-       cx="103.71667"
+       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
        id="path1552"
-       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583" />
+       cx="103.71667"
+       cy="118.79791"
+       r="6.614583" />
+    <ellipse
+       ry="4.7624998"
+       rx="5.1593747"
+       cy="116.94583"
+       cx="105.17188"
+       id="circle2955"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.198278" />
+    <ellipse
+       ry="6.4822917"
+       rx="4.7624998"
+       cy="154.91359"
+       cx="70.379166"
+       id="path2969"
+       style="fill:#ffa96f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583" />
+    <ellipse
+       style="fill:#ffa96f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       id="ellipse2971"
+       cx="110.59583"
+       cy="154.91359"
+       rx="4.7624998"
+       ry="6.4822917" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 81.611039,144.4625 a 3.836458,8.0501907 0 0 0 -3.617867,5.45135 5.7072281,7.1653537 0 0 1 3.763078,-1.77871 5.7072281,7.1653537 0 0 1 3.441133,1.44953 3.836458,8.0501907 0 0 0 -3.573425,-5.12217 3.836458,8.0501907 0 0 0 -0.01292,0 z"
+       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.283504"
+       id="path2983" />
+    <path
+       id="path3046"
+       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.283504"
+       d="m 99.073539,144.4625 a 3.836458,8.0501907 0 0 0 -3.617867,5.45135 5.7072281,7.1653537 0 0 1 3.763078,-1.77871 5.7072281,7.1653537 0 0 1 3.44113,1.44953 3.836458,8.0501907 0 0 0 -3.573422,-5.12217 3.836458,8.0501907 0 0 0 -0.01292,0 z"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -223,6 +223,7 @@
        y2="174.82208" />
   </defs>
   <sodipodi:namedview
+     showguides="false"
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -230,10 +231,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="362.42857"
-     inkscape:cy="634.42857"
+     inkscape:cx="409.88078"
+     inkscape:cy="572.02458"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1475"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1440"
@@ -258,7 +259,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       transform="matrix(0.83188965,0,0,0.83188965,34.711189,41.931549)"
+       transform="translate(24.463296,14.963759)"
        id="g1475">
       <g
          id="g1350">
